@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Emmyayeni
 - 👀 I’m interested in coding 
-- i'm a full web developer
+- i'm a fullstack web developer
+- i'm a data scientist
 - 📫 How to reach me ...
 
 <!---
