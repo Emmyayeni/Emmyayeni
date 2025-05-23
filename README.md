@@ -10,6 +10,7 @@ I'm a passionate and self-motivated web developer Skilled in front-end and back-
 * ✉️  You can contact me at [ayeniemmy003@gmail.com](mailto:ayeniemmy003@gmail.com)
 * 🧠  I'm learning pytorch
 * 🤝  I'm open to collaborating on web development and machine learning
+* portfolio : "https:ayeniemmmy.me"
 
 ### Skills
 
