@@ -67,14 +67,6 @@ I'm a passionate and self-motivated developer skilled in building scalable web a
 
 ---
 
-### 🌟 Highlight Projects
-
-| Project | Description |
-|--------|-------------|
-| 🛒 **E-commerce App** | Fullstack shopping app with Next.js, Stripe, and MongoDB |
-| 📊 **Data Explorer** | Visualize and analyze datasets using Python, Pandas, and Streamlit |
-| 🧠 **ML Model Dashboard** | Live model prediction UI built with FastAPI + React |
-
 ---
 
 ### 🤝 Let's Connect
