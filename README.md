@@ -19,7 +19,7 @@ I'm a passionate and self-motivated developer skilled in building scalable web a
 ### 🚀 Current Goals
 - 💡 Mastering **PyTorch** for deep learning applications
 - 📈 Building meaningful fullstack projects
-- 🤝 Open to internships, collaborations & freelance projects
+- 🤝 Open to collaborations & freelance projects
 
 ---
 
