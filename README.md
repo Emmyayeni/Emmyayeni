@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Ayeni Emmanuel
 
-### 💻 Fullstack Web Developer | 📊 Data Scientist
-
-I'm a passionate and self-motivated developer skilled in building robust web applications and exploring the power of data through machine learning and analytics.
+### 💻 Fullstack Web Developer | 📊 Data Scientist  
+I'm a passionate and self-motivated developer skilled in building scalable web applications and extracting insights from data using modern tools and frameworks.
 
 ---
 
-### 📍 Location
-📌 Abuja, Nigeria
+### 📍 Based In
+🇳🇬 Abuja, Nigeria
 
-### 📫 Contact Me
+### 📫 Get in Touch  
 📧 [ayeniemmy003@gmail.com](mailto:ayeniemmy003@gmail.com)  
 🌐 [Portfolio](https://ayeniemmy.me)  
 💼 [LinkedIn](https://www.linkedin.com/in/ayeniemmy)  
@@ -17,49 +16,73 @@ I'm a passionate and self-motivated developer skilled in building robust web app
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Current Goals
+- 💡 Mastering **PyTorch** for deep learning applications
+- 📈 Building meaningful fullstack projects
+- 🤝 Open to internships, collaborations & freelance projects
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+---
+
+### 🧠 Tech Stack
+
+#### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
+#### Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)  
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+#### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-**DevOps / Tools:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-**Data Science:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)  
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)  
+#### Data Science / ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 ---
 
-### 📘 Current Focus
-- Improving my backend architecture and DevOps skills
-- Exploring advanced machine learning techniques with PyTorch
-- Building portfolio projects that combine web and data science
+### 📊 GitHub Stats
+![Ayeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmyayeni&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmyayeni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🤝 Let's Collaborate
-I'm open to opportunities in web development, data engineering, and machine learning. Feel free to reach out!
+### 🌟 Highlight Projects
 
+| Project | Description |
+|--------|-------------|
+| 🛒 **E-commerce App** | Fullstack shopping app with Next.js, Stripe, and MongoDB |
+| 📊 **Data Explorer** | Visualize and analyze datasets using Python, Pandas, and Streamlit |
+| 🧠 **ML Model Dashboard** | Live model prediction UI built with FastAPI + React |
+
+---
+
+### 🤝 Let's Connect
+I'm open to internships, collaborations, and job opportunities in:
+- Web Development (React, Node.js, Next.js, django)
+- Data Science / ML Projects
+- Backend APIs and Dashboards
+
+---
+
+_Thanks for visiting! 🚀_
