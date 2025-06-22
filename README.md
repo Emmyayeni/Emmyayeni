@@ -61,13 +61,6 @@ I'm a passionate and self-motivated developer skilled in building scalable web a
 
 ---
 
-### 📊 GitHub Stats
-![Ayeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmyayeni&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmyayeni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
----
 
 ### 🤝 Let's Connect
 I'm open to internships, collaborations, and job opportunities in:
